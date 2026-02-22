@@ -1,0 +1,10 @@
+# Core dependencies
+# Generated: 2026-02-22
+
+# Standard library modules (no install needed):
+# logging, argparse, pathlib, dataclasses, json, csv
+
+requests>=2.31.0
+python-dotenv>=1.0.0
+# PyYAML>=6.0.1
+# schedule>=1.2.1
